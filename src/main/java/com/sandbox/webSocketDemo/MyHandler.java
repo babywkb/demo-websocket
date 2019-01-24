@@ -35,8 +35,7 @@ public class MyHandler extends TextWebSocketHandler {
                         System.out.println(e.fillInStackTrace() + "message can not send to other users");
                     }
                 });
-
-}
+    }
 
     //コネクショクローズで発火
     @Override
