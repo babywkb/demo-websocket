@@ -1,4 +1,18 @@
-Study
+
+How to run
+
+```
+cd <project_root>
+./mvnw clean spring-boot:run
+```  
+
+```
+cd <project_root>/front
+npm install
+npm start
+```
+
+↓見て写経＆読み込み(徐々に自分で書き換え)
 https://www.baeldung.com/websockets-spring
 https://github.com/lahsivjar/spring-websocket-template
 
